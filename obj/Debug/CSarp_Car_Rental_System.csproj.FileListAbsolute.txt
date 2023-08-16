@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\CSarp_Car_Rental_System\bin\Debug\CSarp_Car_Rental_System.exe.config
+C:\Users\User\source\repos\CSarp_Car_Rental_System\bin\Debug\CSarp_Car_Rental_System.exe
+C:\Users\User\source\repos\CSarp_Car_Rental_System\bin\Debug\CSarp_Car_Rental_System.pdb
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmCreateNew.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmLogin.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.Properties.Resources.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.exe
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.pdb
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmMain.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmAddCar.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmCategoryCar.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmCategoryCustomer.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmAddCustomer.resources
+C:\Users\User\source\repos\CSarp_Car_Rental_System\obj\Debug\CSarp_Car_Rental_System.FrmRent.resources
